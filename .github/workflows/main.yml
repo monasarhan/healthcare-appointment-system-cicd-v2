@@ -25,3 +25,4 @@ jobs:
       - name: Run backend check
         working-directory: backend
         run: node -c server.js
+        
